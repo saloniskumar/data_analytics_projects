@@ -1,5 +1,5 @@
 # data_analytics_projects
-Collection of all data analytics/science projects I have worked on
+Collection of all data analytics/science projects I have worked on\
 Python:
 [PCA](https://colab.research.google.com/drive/1YJQvPcdoaMPtCAw4QgyBGmwrbQzIXkI9?usp=sharing)
 [LDA](https://colab.research.google.com/drive/1DkS8Jb7SCzdsKQoel7iBCVvk2sygZuJI?usp=sharing)
