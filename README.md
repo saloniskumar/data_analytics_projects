@@ -7,4 +7,4 @@ Python:
 [Visualization](https://colab.research.google.com/drive/1V87dEKJqu-hIK6eSfurvmSPdoVbG2B5W?usp=sharing)
 
 SQL:
-[SQL Queries](E044,53,75_SQL_DBMS_Project.sql)
+[SQL Queries](https://github.com/saloniskumar/Movie_tracker/blob/main/E044%2C53%2C75_SQL_DBMS_Project.sql)
